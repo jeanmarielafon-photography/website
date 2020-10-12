@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Jean-Marie LAFON • Photos</title>
-    <link href="https://jeanmarielafon-photography.github.io/jeanmarielafon-photography/feed.xml" rel="self" />
-    <link href="https://jeanmarielafon-photography.github.io/jeanmarielafon-photography" />
+    <link href="https://jeanmarielafon-photography.github.io/website/feed.xml" rel="self" />
+    <link href="https://jeanmarielafon-photography.github.io/website" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Jean-Marie LAFON</name>
     </author>
-    <id>https://jeanmarielafon-photography.github.io/jeanmarielafon-photography</id>
+    <id>https://jeanmarielafon-photography.github.io/website</id>
 
 </feed>
